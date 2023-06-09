@@ -1,4 +1,2 @@
-# Ucapan Selamat Ulang Tahun
-Sangat simple, ketika surat di klik, akan keluar ucapan dan seketika terputar sebuah lagu. Belum 100% jadi, kurang smooth dan lain-lain.
-
-Lihat [Demo](https://strbagus.github.io/selamat-ultah/).
+Semangat sidang Tara
+"# HieronymusKurniawan.github.io" 
